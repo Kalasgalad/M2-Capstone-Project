@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze two datasets containing factors that contribute to overall happiness within a given country. The first goal is to observe the different features in the datasets, and draw some initial relationships that could contribute to the production of a machine learning model. With these relationships illustrated, two machine learning models will be developed and compared such that final predictions will made with the best performing one.
+This project aims to analyze two datasets containing factors that contribute to overall happiness within a given country. The first goal is to observe the different features in the datasets, and draw some initial relationships that could contribute to the production of a machine learning model. With these relationships illustrated, two machine learning models will be developed and compared such that final predictions will made with the best performing one. <br> This is the link to both datasets used in this project: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
 
 Order of operations for this project.
 
