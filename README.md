@@ -31,19 +31,18 @@ Random Forest - MAE: 0.2940, MSE: 0.1509, R²: 0.8763
 
 **Overall we can observe that there are far more blue dots away from the center of the line which is due in large part to the evaluation metrics in the Linear Regression model being lower.<br> Because of this, the Random Forest is likely the better choice as it will produce a prediction with more accuracy**
 
-## Final Model and Prediction
+## Final Model and Prediction (Random Forest)
 
-Model Performance on Training Data:
-MAE: 0.1903
-MSE: 0.0671
-R² Score: 0.9461
+Input data Life Ladder Score (Happiness Score) : 7.103
 
 Final Prediction
-Predicted Happiness Score: 7.0597
+Predicted Happiness Score: 7.18 
 
 ### Closing Thoughts
 
-In conclusion, the final model has even better performance metrics than the Random Forest training model!<br> The accuracy of the final model is the highest yet with an R² Score of 0.9461<br>
-When entering personal inputs, I chose to predict the happiness score for Canada because that's where I live. In these turbulent, sociopolitical times, I want to evaluate if Canadians will still believe that we are an amazing country to grow in. <br> I've always believed that Canadians aspire to be in the upper echelon of global citizens, so this prediction is personal to me. <br>
+In conclusion, the final chosen model has predicted quite accurately what the life ladder score the second dataframe contained! <br>
+The model predicted an outcome of 7.18 Life Ladder Score compared to 7.103 from the actual value from unseen data. <br>
+When entering personal inputs, I chose to predict the happiness score for Canada because that's where I live. In these turbulent, sociopolitical times, I want to evaluate if Canadians will still believe that we are an amazing country to grow in. <br>
+I've always believed that Canadians aspire to be in the upper echelon of global citizens, so this prediction is personal to me. <br>
 
-Although the dataset that this model is based off of contains subjective data; the predicted happiness score is quite close to its 2021 evaluation. This leads me to believe that there is a likely chance that Canadians will hold fast to the changes we are faced with this year.
+Although the dataset that this model is based off of contains subjective data; the predicted happiness score is extremely close to its 2021 evaluation. This leads me to believe that there is a likely chance that Canadians will hold fast to the changes we are faced with this year.
